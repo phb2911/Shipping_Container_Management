@@ -1,0 +1,6 @@
+Shipping Container Management
+=============================
+
+This project contains the implementation of a custom-built desktop application using Visual Basic .Net to manage shipping containers and other aspects of a trucking company.
+
+This application manages the inbound and outbound containers, as well as which truck(s) and driver(s) moved the containers. It also generates documentation regarding the transport of containers, keeps track of the trucks’ maintenance, stores the drivers’ documentation and permits, and provides several types reports.
